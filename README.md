@@ -45,6 +45,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalshruti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jalaj-Mishra&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sonalshruti02&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
